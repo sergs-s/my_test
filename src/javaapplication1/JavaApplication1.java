@@ -18,7 +18,7 @@ public class JavaApplication1 {
         int[][] mass = {
             {11, 12, 13},
             {21, 22, 23},
-            {31, 32, 55}
+            {31, 32, 77}
         };
         
 //        System.out.println("aaa" + "!");
