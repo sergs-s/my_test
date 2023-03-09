@@ -18,13 +18,13 @@ public class JavaApplication1 {
         int[][] mass = {
             {11, 12, 13},
             {21, 22, 23},
-            {31, 32, 44}
+            {31, 32, 55}
         };
         
 //        System.out.println("aaa" + "!");
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
-               System.out.print(String.valueOf(mass[i][j+1])+" ");
+               System.out.print(String.valueOf(mass[i][j])+" ");
             }
             System.out.println("");
             
